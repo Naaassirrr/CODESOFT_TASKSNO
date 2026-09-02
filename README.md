@@ -212,5 +212,21 @@ The projects demonstrate the complete workflow from **data preparation → model
 https://github.com/Naaassirrr/CODESOFT_TASKSNO
 
 ---
+---
+
+## 👨‍💻 Author
+
+**Nasir Alam**
+
+B.Tech CSE (Data Science)  
+Galgotias University  
+Graduating in 2028
+
+## 🔗 Connect With Me
+
+- 🐙 GitHub: [Naaassirrr](https://github.com/Naaassirrr)
+- 💻 LeetCode: [Naaassirrr](https://leetcode.com/Naaassirrr/)
+- 💼 LinkedIn: [Nasir Alam](https://www.linkedin.com/in/nasir-alammm)
+- 📧 Email: [nasir90kne@gmail.com](mailto:nasir90kne@gmail.com)
 
 ⭐ Thank you for reviewing my CodeSoft internship projects!
